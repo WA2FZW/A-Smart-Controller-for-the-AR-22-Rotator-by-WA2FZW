@@ -19,3 +19,8 @@ No changes to the software (Version 5.2 is the latest software version), but
 Neal (WA9WYI) discovered a mistake on the power supply PCB; the pins on the
 LM7812 regulator were reversed. The Gerber files for the power supply PCB
 are corrected and identified as Version 5.3.
+
+Document Update 9/4/2020:
+
+Added information about the commands available on the serial interface. Not
+sure why I never listed them in the original!
