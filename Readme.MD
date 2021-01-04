@@ -24,3 +24,7 @@ Document Update 9/4/2020:
 
 Added information about the commands available on the serial interface. Not
 sure why I never listed them in the original!
+
+
+Update Jan 04, 2021 - Fixed a couple of typos in the docmentation and added
+a "Table of Contents".
