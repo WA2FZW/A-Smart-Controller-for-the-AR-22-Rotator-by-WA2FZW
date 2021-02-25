@@ -1,5 +1,5 @@
 A Smart Controller for the AR-22 Rotator by WA2FZW
-Version 05.4
+Version 5.4
 
 The AR-22 rotator controller is an Arduino Uno based controller for the old
 CDE AR-22 antenna rotator which replaces the clunk-clunk controller that the
